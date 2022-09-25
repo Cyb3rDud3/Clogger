@@ -8,4 +8,4 @@ this code should also take pictures of the user screen in other thread, and save
 
 
 
-I'm suck at C. so this code is a mess, I wroted this to practice
+I suck at C. so this code is a mess, I wroted this to practice
